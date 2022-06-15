@@ -1,2 +1,2 @@
 # Dumb-Calculator
-<p> wrote this game for fun :) </p>
+<p> wrote this app for fun :) </p>
